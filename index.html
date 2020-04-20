@@ -78,7 +78,7 @@
                 </div>
                 <div class="pt-5 pb-5"></div>
                 <div class="pt-5 pb-5"></div>
-              
+
             </div>
 
         </div>
@@ -307,7 +307,7 @@
 
     <div class="container mt-5 pt-5 pl-5">
         <div class="row">
-            <div class="col-sm-6 animated anim_zoom8  delay-1s">
+            <div class="col-sm-6 animated anim_zoom8 ">
                 <p class="upcoming-event">UPCOMING EVENT</p>
                 <p class="positive-vibes-stre font-weight-bold">Positive Vibes: <br>
                     Stress Management Group</p>
@@ -378,7 +378,7 @@
         <div class="row">
 
             <div class="col-sm-6">
-                <div class="rectangle-7 pt-5 pl-5">
+                <div class="rectangle-7 pt-5 pl-5 animated anim_zoom9">
                     <div class="latest-research font-weight-bold">LATEST RESEARCH</div>
                     <p class="pediatric-therapy-ce font-weight-bold pt-3">Pediatric Therapy Center Raises the Bar in
                         South Florida</p>
@@ -388,7 +388,7 @@
 
                 </div>
 
-                <div class="orange-block-1 mt-5 ">
+                <div class="orange-block-1 mt-5 animated anim_zoom10 ">
 
                     <div class="row">
                         <div class="col-sm-6 col-xs-6 pt-5 pl-5 ">
@@ -409,7 +409,7 @@
                 </div>
             </div>
 
-            <div class="col-sm-6 ">
+            <div class="col-sm-6  animated anim_zoom11">
                 <div class="bigim">
                     <div class="over">
                         <div class="pl-5">
@@ -643,11 +643,40 @@
 
             $(".anim_zoom8").waypoint(
                 function () {
-                    $(".anim_zoom8").addClass("fadeIn");
+                    $(".anim_zoom8").addClass("fadeInUp");
                 },
                 { offset: "75%" }
             );
 
+
+            $(".anim_zoom9").css("opacity", 0);
+
+            $(".anim_zoom9").waypoint(
+                function () {
+                    $(".anim_zoom9").addClass("fadeInLeft");
+                },
+                { offset: "75%" }
+            );
+
+
+            $(".anim_zoom10").css("opacity", 0);
+
+            $(".anim_zoom10").waypoint(
+                function () {
+                    $(".anim_zoom10").addClass("fadeInLeft");
+                },
+                { offset: "75%" }
+            );
+
+
+            $(".anim_zoom11").css("opacity", 0);
+
+            $(".anim_zoom11").waypoint(
+                function () {
+                    $(".anim_zoom11").addClass("fadeInUp");
+                },
+                { offset: "75%" }
+            );
 
 
 
