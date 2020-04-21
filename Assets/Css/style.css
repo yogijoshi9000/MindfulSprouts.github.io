@@ -652,3 +652,267 @@
   .owl-dots{
       display: none;
   }
+  .rectangle-4about {
+    height: 248px;
+    width: 244px;
+    background-color: #FFFFFF;
+    box-shadow: 0 3px 13px 1px rgba(85,85,85,0.11);
+    position: relative;
+  }
+
+  .vertical-center1 {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    width: 80%;
+  }
+
+  .accepted-insurances101 {
+  
+    color: #A8A6A6;
+   
+    font-size: 14px;
+    letter-spacing: 2.57px;
+    line-height: 17px;
+    text-align: center;
+  }
+
+  .our-insurance-provid101 {
+   
+    color: #3F3F3F;
+   
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: 45px;
+    text-align: center;
+  }
+  .ut-enim-ad-minim-ven-3101 {
+   
+    color: #898989;
+  
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 28px;
+    text-align: center;
+  }
+
+  .rectangle-3101 {
+    height: 800px;
+    background-color: #7DD2E3;
+   
+  }
+
+  .imag-ii{
+
+height: 800px  !important;
+  }
+
+
+  .our-approach-to-care101{
+ 
+    color: #FFFFFF;
+
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: 43px;
+  }
+
+  .our-staff-is-highly101 {
+   
+    color: #FFFFFF;
+   
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 30px;
+  }
+
+  .testpadding{
+    padding-top: 20%;
+    padding-left: 10%;
+  }
+
+
+  .testpadding1{
+    
+    padding-left: 10%;
+  }
+
+  .get-to-know-us101 {
+   
+    color: #A8A6A6;
+
+    font-size: 18px;
+    letter-spacing: 2.57px;
+    line-height: 17px;
+    text-align: center;
+  }
+
+  .our-shared-values101 {
+    
+    color: #3F3F3F;
+   
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: 50px;
+    text-align: center;
+  }
+
+  .ut-enim-ad-minim-ven-1101 {
+ 
+    color: #898989;
+  
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 28px;
+    text-align: center;
+  }
+
+  .rectangle-copy-16101 {
+    box-sizing: border-box;
+    height: 422px;
+    width: 235px;
+    border: 1px solid #E3E3E3;
+    background-color: #FFFFFF;
+  }
+
+  .iconsize{
+    height: 50px !important;
+    width: 50px !important;
+  }
+
+  .accountability {
+    
+    color: #FED500;
+  
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 23px;
+  }
+
+  .ut-enim-ad-minim-ven-copy1111 {
+   
+    color: #898989;
+    
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 28px;
+  }
+  .accountability1{
+    
+    color: #7DD2E3;
+  
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 23px;
+  }
+  .accountability2 {
+    
+    color: #F15B27;
+  
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 23px;
+  }
+  .accountability3 {
+    
+    color: #0F677F;
+  
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 23px;
+  }
+
+  .who-we-are101 {
+   
+    color: #3F3F3F;
+   
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: 50px;
+  }
+
+  .mindful-sprouts-was101 {
+
+    color: #898989;
+  
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 30px;
+  }
+
+  .today-with-more-tha101 {
+  
+    color: #898989;
+  
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 30px;
+  }
+
+  .our-mission101 {
+  
+    color: #FED500;
+   
+    font-size: 14px;
+    letter-spacing: 2.57px;
+    line-height: 17px;
+    text-align: center;
+  }
+
+  .mission-for-greatnes101 {
+    
+    color: #3F3F3F;
+   
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: 50px;
+    text-align: center;
+  }
+
+  .to-be-the-preeminent101 {
+   
+    color: #3F3F3F;
+   
+    font-size: 22px;
+    letter-spacing: 0;
+    line-height: 42px;
+    text-align: center;
+  }
+
+  .rectangle_aboutus {
+    height: auto;
+    width: 1443px;
+    background: linear-gradient(180deg, #177D99 0%, #07556B 100%);
+  }
+
+  .aboutmain{
+
+    height: 900px !important;
+    width: 1443px;
+    background-color: red;
+  }
+
+  .navfont{
+    color:white !important;
+  }
+
+  .about-mindful-sprout101 {
+   
+    color: #FFFFFF;
+   
+    font-size: 52px;
+    letter-spacing: 0;
+    line-height: 64px;
+  }
+
+  .ut-enim-ad-minim-ven101 {
+
+    opacity: 0.5;
+    color: #FFFFFF;
+    
+    font-size: 18px;
+    letter-spacing: 0;
+    line-height: 28px;
+  }
