@@ -1295,3 +1295,25 @@ height: 800px  !important;
   
     color: white !important;
   }
+
+  .sibling-hover {
+    cursor: pointer;
+}
+
+  .sibling-hover:hover ~ .sibling-highlight {
+ 
+    opacity: 1;
+
+}
+.sibling-hover:hover{
+  box-sizing: border-box;
+  border-radius: 50%;
+  display: inline-block;
+  border: 5px solid #FFFFFF;
+}
+
+.sibling-highlight:hover {
+ 
+  opacity: 1;
+
+}
