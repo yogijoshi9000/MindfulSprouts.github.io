@@ -638,6 +638,8 @@
 
       padding-top: 8%;
     }
+
+    
   
 
     
@@ -703,6 +705,11 @@
     background-color: #7DD2E3;
    
   }
+  .rectangle-3101_service {
+    height: auto;
+    background-color: #7DD2E3;
+   
+  }
 
   .imag-ii{
 
@@ -714,7 +721,7 @@ height: 800px  !important;
  
     color: #FFFFFF;
 
-    font-size: 32px;
+    font-size: 36px;
     letter-spacing: 0;
     line-height: 43px;
   }
@@ -727,11 +734,24 @@ height: 800px  !important;
     letter-spacing: 0;
     line-height: 30px;
   }
+  .our-staff-is-highly1011 {
+   
+    color: #FFFFFF;
+   
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 30px;
+  }
 
   .testpadding{
     padding-top: 20%;
     padding-left: 10%;
   }
+  .testpadding_service{
+    padding-top: 10%;
+    padding-left: 10%;
+  }
+
 
 
   .testpadding1{
@@ -918,7 +938,355 @@ height: 800px  !important;
   }
 
   .rectangle-copy-16101:hover{
-    
     background-color: #EA6872;
+    
 
+  }
+
+  .accountability1:hover{
+    color: white;
+  }
+
+  .bigim2{
+    height: auto;
+    width: auto;
+    background: url("../Image/Service_1.png") no-repeat center center ;
+
+  }
+
+
+  .want-more-insight301 {
+   
+    color: #3F3F3F;
+  
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: 50px;
+  }
+
+  .download-our-pdf-to301 {
+  
+    color: #3F3F3F;
+   
+    font-size: 22px;
+    letter-spacing: 0;
+    line-height: 30px;
+  }
+
+  .rectangle301 {
+    height: 60px;
+    width: 260px;
+    border-radius: 39.5px;
+    background-color: #FFFFFF;
+  }
+
+  .bitmap {
+    height: 266px !important;
+    width: 266px !important;
+  }
+
+  .enim-ad-minim-veniam301{
+    color: #898989;
+    font-size: 18px;
+    letter-spacing: 0;
+    
+  }
+
+  .exercitation-ullamco301 {
+   
+   
+    color: #898989;
+    font-size: 18px;
+    letter-spacing: 0;
+    
+  }
+
+  .minerva-shaw301 {
+   
+    color: #0F677F;
+  
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 18px;
+
+ 
+  }
+  .miami-florida301 {
+    
+    opacity: 0.68;
+    color: #0F677F;
+  
+    font-size: 22px;
+    letter-spacing: 1.88px;
+    line-height: 18px;
+  }
+
+  .contact-us301 {
+    
+    color: #A8A6A6;
+   
+    font-size: 14px;
+    letter-spacing: 2.57px;
+    line-height: 17px;
+  }
+
+  .get-in-touch-and-we301 {
+  
+    color: #3F3F3F;
+   
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: 50px;
+  }
+
+  .rectangleF301 {
+    box-sizing: border-box;
+    height: 61px;
+    width: 320px;
+    border: 1px solid #979797;
+    opacity: 0.96;
+    border-radius: 5px;
+  }
+
+ 
+  .rectangleF3011 {
+    box-sizing: border-box;
+    height: 101px;
+    width: 320px;
+    border: 1px solid #979797;
+    opacity: 0.96;
+    border-radius: 5px;
+  }
+
+  .rectangle3012 {
+    height: 60px;
+    width: 170px;
+    border-radius: 39.5px;
+    background-color: #FED500;
+  }
+
+  .places-of-service_s301 {
+   
+    color: #A8A6A6;
+    font-size: 12px;
+    letter-spacing: 2.2px;
+    line-height: 15px;
+    text-align: center;
+  }
+
+
+  .where-do-we-provide_s301 {
+
+    color: #3F3F3F;
+  
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: 50px;
+    text-align: center;
+  }
+
+
+  .ut-enim-ad-minim-ven-copy-2_s301 {
+   
+    color: #898989;
+   
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 28px;
+    text-align: center;
+  }
+
+  .home_ser1{
+    height: 60px !important;
+    width: 60px !important;
+  }
+
+  .rectangle-1_service {
+    height: auto;
+   
+    background-color: white;
+    box-sizing: border-box;
+    border: 1px solid #979797;
+
+  }
+
+  .one01 {
+   
+    color: #EA6872;
+    font-size: 40px;
+    line-height: 47px;
+   
+  }
+
+  .two02 {
+   
+    color: #FED500;
+    font-size: 40px;
+    line-height: 47px;
+   
+  }
+
+  .three03 {
+   
+    color: #7DD2E3;
+    font-size: 40px;
+    line-height: 47px;
+   
+  }
+
+  .four04{
+   
+    color: #0F677F;
+    font-size: 40px;
+    line-height: 47px;
+   
+  }
+
+  .five05 {
+   
+    color: #F15B27;
+    font-size: 40px;
+    line-height: 47px;
+   
+  }
+
+  .six06 {
+   
+    color: #DF4F80;
+    font-size: 40px;
+    line-height: 47px;
+   
+  }
+
+
+
+  .consultation_s {
+   
+    color: black;
+   
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 23px;
+  }
+
+  .ut-enim-ad-minim-ven-copy-4_s {
+  
+    color: #898989;
+ 
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 28px;
+  }
+
+  .rectangle_service_blue {
+    height: auto;
+    width: auto;
+    background-color: #0F677F;
+  }
+
+  .focus-areas {
+  
+    color: #FFFFFF;
+    
+    font-size: 12px;
+    letter-spacing: 2.2px;
+    line-height: 15px;
+  }
+
+  .our-potty-training-s {
+  
+    color: #FFFFFF;
+  
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: 50px;
+  }
+
+  .ses{
+    height: 90px !important;
+    width: 90px !important;
+  }
+
+  .no-potty-left-behind {
+    height: 42px;
+  width: 99px;
+    opacity: 0.5;
+    color: #FFFFFF;
+   
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 21px;
+    text-align: center;
+   
+  }
+
+  .this-basic-package-w {
+  
+    color: #FFFFFF;
+   
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 30px;
+  }
+
+
+  .about-potty-training {
+   
+    color: #A8A6A6;
+  
+    font-size: 14px;
+    letter-spacing: 2.57px;
+    line-height: 17px;
+  }
+
+  .potty-training-lear {
+    
+    color: #3F3F3F;
+    
+    font-size: 32px;
+    letter-spacing: 0;
+    line-height: 48px;
+  }
+
+  .applied-behavioral-a {
+  
+    color: #898989;
+   
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 30px;
+  }
+
+  .your-child-can-recei {
+   
+    color: #898989;
+   
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 30px;
+  }
+
+  .potty-training {
+    
+    color: #3F3F3F;
+    
+    font-size: 16px;
+    letter-spacing: 2.93px;
+    line-height: 18px;
+  }
+
+  .from-diapers-to-big {
+    
+    color: #3F3F3F;
+  
+    font-size: 52px;
+    letter-spacing: 0;
+    line-height: 64px;
+  }
+
+  .rectangle_explore {
+    height: 70px;
+    width: 185px;
+    border-radius: 39.5px;
+    background-color: #FED500;
   }
