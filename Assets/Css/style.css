@@ -1290,3 +1290,8 @@ height: 800px  !important;
     border-radius: 39.5px;
     background-color: #FED500;
   }
+
+  .no-potty-left-behind :hover{
+  
+    color: white !important;
+  }
