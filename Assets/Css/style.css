@@ -12,6 +12,8 @@
 .topnav a.active {
   border-bottom: 3px solid red;
 }
+
+
   
   .background_homepage{
     background: url("../Image/Background_HomePage.png") no-repeat center center ;
@@ -22,6 +24,42 @@
     height: auto;
     width: 100%;
     position: relative;
+  }
+
+  .background_homepage_service{
+    background: url("../Image/ServiceHomePage.png") no-repeat center center ;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: auto;
+    width: 100%;
+    position: relative;
+  }
+
+  .background_homepage_Resource{
+    background: url("../Image/Resource_HomePage.png") no-repeat center center ;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: auto;
+    width: 100%;
+    position: relative;
+  
+  }
+
+  .rectangle_resource {
+    height: auto;
+    opacity: 0.35;
+    background-color: #000000;
+   
+   
+   
+
+  }
+  .intop{
+    z-index: 10;
   }
 
   .eco{
@@ -1316,4 +1354,204 @@ height: 800px  !important;
  
   opacity: 1;
 
+}
+
+
+
+
+.e-book {
+ 
+  color: #B7B7B7;
+  
+  font-size: 18px;
+ 
+}
+
+
+.line-2-copy-2_R {
+  box-sizing: border-box;
+  height: 1px;
+  width: 1034px;
+  border: 1px solid #979797;
+  opacity: 0.17;
+}
+
+
+.rectangle-2_R {
+  height: auto;
+  width: auto;
+  background-color: #0F677F;
+}
+
+.the-verbal-behavior_R {
+ 
+  color: #FFFFFF;
+ 
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: 50px;
+  text-align: center;
+}
+
+
+.what-every-parent-ne_R {
+
+  color: #FFFFFF;
+ 
+  font-size: 22px;
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-left: 15%;
+}
+
+.ut-enim-ad-minim-ven-1_R {
+
+  opacity: 0.58;
+  color: #FFFFFF;
+  
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-left: 15%;
+}
+
+.rectangle_Rb {
+  height: 60px;
+  width: 270px;
+  border-radius: 39.5px;
+  background-color: #FED500;
+  margin-left: 15%;
+}
+
+.how-many-girls-with {
+
+  color: #3F3F3F;
+  
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 28px;
+}
+
+.d26-feb-2019 {
+
+  color: #A8A6A6;
+ 
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 28px;
+  
+}
+
+
+.bitmap-3R{
+  height: 118px !important;
+  width: 196px !important;
+}
+
+
+
+.blogs_sideimage{
+  height: auto;
+  width: auto;
+  background: url("../Image/babay.png") no-repeat center center ;
+
+}
+
+.R110-feb-2019-1 {
+  
+  color: #FFFFFF;
+
+  font-size: 14px;
+  letter-spacing: 0;
+ 
+ 
+}
+
+.naturalistic-develop-1 {
+  
+  color: #FFFFFF;
+  
+  font-size: 22px;
+  letter-spacing: 0;
+  
+}
+
+.rectangleRRR {
+  height: 60px;
+  width: 230px;
+  border-radius: 39.5px;
+  background-color: #FED500;
+}
+
+
+.bitmap_res1 {
+  height: 344px !important;
+  width: 353px !important;
+}
+
+.q24-may-2019 {
+
+  color: #3F3F3F;
+ 
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 28px;
+ 
+}
+
+.research-opportunity {
+
+  color: #3F3F3F;
+ 
+  font-size: 22px;
+  letter-spacing: 0;
+  line-height: 32px;
+}
+
+
+.all-resources {
+ 
+  color: #3F3F3F;
+ 
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: 50px;
+  text-align: center;
+}
+
+
+.ut-enim-ad-minim-venRR {
+  
+  color: #898989;
+  
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 28px;
+  text-align: center;
+}
+
+.btn1style1{
+  height: 50px;
+  width: 150px;
+  border-radius: 39.5px 0px 0px 39.5px;
+  margin-right: -10px;
+  
+  
+  
+}
+.btn1style3{
+  height: 50px;
+  width: 150px;
+  border-radius: 0px  39.5px  39.5px 0px;
+  margin-right: -10px;
+  
+  
+}
+.btn1style2{
+  height: 50px;
+  width: 150px;
+  border-radius: 1px  1px  1px 1px;
+  margin-right: -10px;
+  
+  
 }
