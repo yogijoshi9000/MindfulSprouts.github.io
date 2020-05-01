@@ -1534,7 +1534,7 @@ height: 800px  !important;
   height: 50px;
   width: 150px;
   border-radius: 39.5px 0px 0px 39.5px;
- 
+  margin-right: -5px;
   
   
   
@@ -1543,7 +1543,7 @@ height: 800px  !important;
   height: 50px;
   width: 150px;
   border-radius: 0px  39.5px  39.5px 0px;
- 
+  margin-right: -5px;
   
   
 }
@@ -1551,7 +1551,276 @@ height: 800px  !important;
   height: 50px;
   width: 150px;
   border-radius: 1px  1px  1px 1px;
- 
+  margin-right: -5px;
   
   
 }
+
+.crisis-support-for-c {
+
+  color: #FFFFFF;
+ 
+  font-size: 52px;
+  letter-spacing: 0;
+  line-height: 64px;
+  text-align: center;
+}
+
+.blog-post {
+  
+  color: #FFFFFF;
+  
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 28px;
+
+  float: left;
+}
+
+.featured {
+
+  color: #FFFFFF;
+
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 28px;
+ 
+  float: left;
+}
+
+.rectangle_startreading {
+  height: 70px;
+  width: 254px;
+  border-radius: 39.5px;
+  background-color: #FED500;
+}
+.oval-copy_c {
+  height: 5px;
+  width: 5px;
+  background-color: #F15B27;
+  float: left;
+}
+
+
+.rectangle_GIT_Home {
+  height: 560px;
+  width: 1443px;
+  background: linear-gradient(180deg, #177D99 0%, #07556B 100%);
+}
+
+.imgcircle1{
+  float: left;
+  padding-left: 2%;
+  opacity: 0.3;
+}
+
+.rectangle-2_GIT_2 {
+  height: 1030px;
+
+  background-color: #FFFFFF;
+  box-shadow: 0 3px 13px 1px rgba(85,85,85,0.11);
+  margin-top: -10%;
+ 
+}
+
+.want-to-get-in-touch {
+  
+  color: #FFFFFF;
+  
+  font-size: 22px;
+  letter-spacing: 0;
+  line-height: 32px;
+}
+
+.contact-us-for-more {
+ 
+  color: #3F3F3F;
+ 
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: 34px;
+}
+
+.rectangle_firstName {
+  box-sizing: border-box;
+  height: 50px !important;
+ 
+  border: 1px solid #979797;
+  opacity: 0.5;
+  border-radius: 5px;
+  
+}
+.rectangle_email {
+  box-sizing: border-box;
+  height: 50px;
+ 
+  border: 1px solid #979797;
+  opacity: 0.5;
+  border-radius: 5px;
+  float: left;
+}
+.rectangle_select {
+  box-sizing: border-box;
+  height: 50px;
+
+  border: 1px solid #979797;
+  opacity: 0.5;
+  border-radius: 5px;
+}
+
+.rectangle_textarea {
+  box-sizing: border-box;
+
+  border: 1px solid #979797;
+  opacity: 0.5;
+  border-radius: 5px;
+}
+
+
+.what-will-be-next-st {
+
+  color: #3F3F3F;
+  
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: 40px;
+}
+.redoval{
+  height: 20px !important;
+  width: 20px !important;
+  float: left;
+}
+
+.a1-initial-assessmen {
+  
+  color: #3F3F3F;
+  
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 34px;
+
+  margin-top: -2%;
+}
+
+.line_1 {
+  box-sizing: border-box;
+  height: 160px;
+  width: 1px;
+  border: 1px solid #979797;
+  opacity: 0.5;
+  float: left;
+}
+
+
+.our-parent-liaison-t {
+ 
+  opacity: 0.51;
+  color: #3F3F3F;
+  
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 28px;
+}
+
+
+.therapy-center {
+ 
+  color: #A8A6A6;
+  font-family: ".SF NS Display";
+  font-size: 14px;
+  letter-spacing: 2.57px;
+  line-height: 17px;
+  text-align: center;
+}
+
+.our-therapy-center {
+ 
+  color: #3F3F3F;
+  font-family: ".SF NS Display";
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: 50px;
+  text-align: center;
+}
+
+.ut-enim-ad-minim-ven-copy-2_GIT {
+
+  color: #898989;
+  font-family: ".SF NS Display";
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 28px;
+  text-align: center;
+}
+
+.rectangle-copy-2_GIT {
+  height: 695px;
+ 
+  background-color: #7DD2E3;
+}
+
+.address_GIT {
+ 
+  color: #FFFFFF;
+  font-family: ".SF NS Display";
+  font-size: 16px;
+  letter-spacing: 2.57px;
+  line-height: 17px;
+  padding-top: 12%;
+  padding-left: 14%;
+ 
+}
+.r3528-barnes-street {
+  
+  color: #0F677F;
+  font-family: ".SF NS Display";
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: 26px;
+  padding-left: 14%;
+}
+
+.testp{
+  color: #FFFFFF;
+  font-family: ".SF NS Display";
+  font-size: 16px;
+  letter-spacing: 2.57px;
+  line-height: 17px;
+  padding-top: 6%;
+  padding-left: 14%;
+}
+
+.rectangle-copy-2_upload {
+  box-sizing: border-box;
+  height: 61.5px;
+  width: 666.5px;
+  border: 1.5px dashed #979797;
+  opacity: 0.5;
+  border-radius: 5px;
+padding-left: 35%;
+}
+
+.rectangle_send {
+  height: 60px;
+  width: 170px;
+  border-radius: 39.5px;
+  background-color: #FED500;
+}
+
+.rectangle-4_last {
+  height: 87px;
+  width: auto;
+  background-color: #F3F3F3;
+  margin-top: 11%;
+}
+.if-you-wish-to-talk {
+  
+  color: #3F3F3F;
+  font-family: ".SF NS Display";
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 18px;
+  text-align: center;
+ padding-top: 5%;
+}
+
